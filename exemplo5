@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Exemplo 5</title>
+  </head>
+  <body>
+    <h1>Exemplo 5</h1>
+    <p>Os exemplos desenvolvidos em sala foram:</p>
+    <ul>
+      <li><a href="http://www.pudim.com.br">Exemplo 01</a></li>
+      <li><a href="Aulas Listas e Tabelas.html">Exemplo 02</a></li>
+      <li><a href="Aulas Listas e Tabelas.html">Exemplo 03</a></li>
+      <li><a href="Aulas Listas e Tabelas.html">Exemplo 04</a></li>
+      <li><a href="Aulas Listas e Tabelas.html">Exemplo 05</a></li>
+
+    </ul>
+  </body>
+</html>
